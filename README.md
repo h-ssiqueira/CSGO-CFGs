@@ -1,20 +1,20 @@
-# CSGO-CFGs
+# CSGO CFGs
 Useful csgo cfgs
 
-Official servers:
+## Official servers:
 
-crosshair → Configurations for crosshair and HUD.
+* crosshair → Configurations for crosshair and HUD.
 
-compra → Binds for buying items.
+* compra → Binds for buying items.
 
-Private servers only:
+## Private servers only:
 
-dm → Configuration for death match server where teammates are enemies.
+* dm → Configuration for death match server where teammates are enemies.
 
-hs → Configuration for personal server for headshots only.
+* hs / treino2 → Configuration for personal server for headshots only.
 
-hss → Configuration for training maps (e.g.: granades).
+* hss → Configuration for training maps (e.g.: granades).
 
-knife → Configuration for knife drops.
+* knife → Configuration for knife drops.
 
-x1 → Configuration for private server for training with friends.
+* x1 / x2 → Configuration for private server for training with friends.
