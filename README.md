@@ -1,5 +1,5 @@
 # CSGO CFGs
-Useful csgo cfgs
+Useful ![csgo](https://img.shields.io/badge/Counter%20Strike%20Global%20Offensive-000000?style=for-the-badge&logo=counterstrike&logoColor=white) cfgs
 
 ## Official servers:
 
