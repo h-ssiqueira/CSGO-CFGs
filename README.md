@@ -1,6 +1,10 @@
 # CSGO CFGs
 Useful ![csgo](https://img.shields.io/badge/Counter%20Strike%20Global%20Offensive-000000?style=for-the-badge&logo=counterstrike&logoColor=white) cfgs
 
+## Initialization commands
+
+-novid -high -tickrate 128 -refresh 165 +exec crosshair.cfg -nojoy -forcenovsync -limitvsconst -nod3d9ex1 +fps_max 0 -fullscreen
+
 ## Official servers:
 
 * crosshair → Configurations for crosshair and HUD.
